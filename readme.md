@@ -6,6 +6,8 @@ Pierwszym zadaniem w tym semestrze będzie napisanie aplikacji desktopowej do s�
 Aplikacja powinna mieć układ podobny do tego, który jest w załączniku.  
 Nie musi być odwzorowana jeden do jeden, natomiast ważne jest użycie właściwych układów do pozycjonowania przycisków czy informacji o piosence.
 
+![Układ aplikacji](app.png)
+
 ## Wymagania funkcjonalne
 
 Aplikacja powinna:
